@@ -2,5 +2,5 @@
 
 function jsplol() {
     //actions
-    prompt("test: ")
+    prompt("test: ");
 }
